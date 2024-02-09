@@ -6,8 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>To Do App</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is a simple To Do App coded in React.
         </p>
         <a
           className="App-link"
